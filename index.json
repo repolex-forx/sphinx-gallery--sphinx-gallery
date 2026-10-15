@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-gallery",
+  "repo": "sphinx-gallery",
+  "versions": [
+    {
+      "commit": "a7f3bac58f0d8f2006325ccd6ab746f6f55c504d",
+      "tag": "",
+      "parsed_at": "2026-10-15T13:45:10.301088+00:00"
+    }
+  ]
+}
